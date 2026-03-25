@@ -37,7 +37,7 @@ nav a{
     color:  rgb(8, 215, 215);
     font-size: 25px;
     margin: 20px;
-    padding: 35px;
+    padding: 20px;
 }
 
 nav a:hover{
@@ -220,15 +220,14 @@ h1{
 /*------------------------------*/
 
 #footer{
-    position:relative;
-    bottom: 0;
+    position: relative;
     width: 100%;
     background: aqua;
     color: black;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     padding: 3px;
-    margin-top: 15px;
+   margin-top: 15px;
 }
 
 
